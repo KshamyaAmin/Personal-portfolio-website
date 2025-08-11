@@ -179,9 +179,7 @@ nav ul li a:focus {
   box-shadow: 0 16px 58px rgba(54,124,157,0.13);
 }
 .project-card img {
-  width: 320px;
-  max-height: 210px;
-  object-fit: cover;
+  width: 420px;
   background: #dbeafe;
   border-right: 1px solid #e5e8f2;
 }
